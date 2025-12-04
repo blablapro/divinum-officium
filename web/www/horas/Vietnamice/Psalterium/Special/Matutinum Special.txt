@@ -323,7 +323,7 @@ Amen.
 
 [Day6 HymnusM]
 v. Chúa nguồn thương xót hải hà,
-Dựng nên trời đất, bao la tuyệt vời.
+Dựng nên lời đất, bao la tuyệt vời.
 Chúa là duy nhất muôn đời,
 Ba ngôi riêng biệt, chẳng rời nhau ra.
 _
@@ -350,9 +350,9 @@ Amen.
 
 [Day6 Hymnus]
 {:H-MatFeria:}v. Cha nguồn thương xót hải hà,
-Dựng nên trời đất, bao la tuyệt vời.
+Dựng nên lời đất, bao la tuyệt vời.
 Cùng là một tính một Lời,
-Ba ngôi riêng biệt, Chúa Trời uy linh.
+Ba ngôi riêng biệt, Chúa Lời uy linh.
 _
 Nghe lời than khóc tội mình,
 Hát ca dâng tiếng, trọn tình khẩn van.
@@ -488,7 +488,7 @@ _
 Dẹp cơn giận dữ hung hăng,
 Khóc than trước mặt, Chúa hằng xét soi.
 Sấp mình miệng lưỡi kêu mời,
-Nói lời van vỉ, Chúa trời thứ tha:
+Nói lời van vỉ, Chúa lời thứ tha:
 _
 Chúng con tội lỗi xấu xa,
 Phạm lòng thương xót, hải hà Chúa tôi.
@@ -513,7 +513,7 @@ Amen.
 
 [HymnusM Quad5]
 @:Hymnus Quad5:s/Láuream/Prœlium/ s/In necem morsu /Morsu in mortem cór/ s/Dei manus pedésque/manus, pedésque, et crura/ s/Sempitérna.*//s
-Vinh danh, danh dự Chúa Trời
+Vinh danh, danh dự Chúa Lời
 Dẫy đầy cao vút, muôn đời chí tôn,
 Chúa Cha, Chúa Tử bảo tồn;
 Thánh Thần danh tiếng, ôn tồn ủi an:
@@ -571,7 +571,7 @@ Dựng nên mọi vật, đất Lời phân minh.
 Trước khi muôn thuở tượng hình,
 Hằng cùng Cha Cả, Con sinh đời đời.
 _
-Buổi sơ khai dựng đất trời,
+Buổi sơ khai dựng đất lời,
 Chúa làm nên A-đam, người đầu tiên.
 Giống in hình Chúa vẹn tuyền,
 Ban cho nét mặt, uy quyền giống Cha.
@@ -584,7 +584,7 @@ _
 Hầu mua chuộc lại con người,
 Mà xưa Chúa nắn, vui cười tạo nên.
 Kết liên cùng Chúa vững bền,
-Nhờ mang xác thịt, kề bên Chúa Trời.
+Nhờ mang xác thịt, kề bên Chúa Lời.
 _
 Sinh bởi Trinh nữ rạng ngời,
 Kinh hồn khiếp vía, mọi người sợ run.
@@ -621,7 +621,7 @@ Dựng nên mọi vật, khắp nơi vẹn toàn.
 Trước khi muôn thuở thế gian,
 Hằng cùng Cha Cả, vinh quang đời đời.
 _
-Khi sinh thế giới đất trời,
+Khi sinh thế giới đất lời,
 Chúa ban hình ảnh, rạng ngời dung nhan.
 Trao cho A-đam bảo toàn,
 Lấy bùn đất nắn, thần linh kết vào.

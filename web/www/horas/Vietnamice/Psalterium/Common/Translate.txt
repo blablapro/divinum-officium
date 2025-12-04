@@ -89,7 +89,7 @@ Chúng tôi hãy ngợi khen Chúa, allêluia, allêluia
 Linh hồn kẻ lành 
 
 [Oremus]
-Chúng tôi hãy cầu nguyện 
+Chúng ta hãy cầu nguyện 
 
 [Hymnus]
 Ca vãn 
@@ -122,10 +122,10 @@ Cực thánh
 Cực thánh 
 
 [Benedictio]
-Lời Phép lành 
+Phép lành 
 
 [Absolutio]
-Lời Phép giải 
+Phép giải 
 
 [Te Deum]
 Kinh Te Deum 

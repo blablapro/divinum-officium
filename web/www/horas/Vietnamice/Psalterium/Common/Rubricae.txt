@@ -140,9 +140,9 @@
 /:Khi đã xong giờ ấy quanh năm, trừ ra ngày thứ Năm và thứ Sáu tuần thánh, thì hát trọng thể:/
 
 [sine Oremus]
-/:Và không đọc «Chúng tôi hãy cầu nguyện» ::/
+/:Và không đọc «Chúng ta hãy cầu nguyện» ::/
 (sed rubrica altovadensis)
-/:Và Kẻ trực tuần đọc tiếp theo không đọc «Chúng tôi hãy cầu nguyện».:/
+/:Và Kẻ trực tuần đọc tiếp theo không đọc «Chúng ta hãy cầu nguyện».:/
 
 [Conclusio cisterciensis]
 /:Và khi nào đọc xong Giờ kinh phải ra khỏi Cung nguyện (trừ khi Lễ Misa liền tiếp theo hay là Kinh Officium Kẻ chết, hoặc Nghi táng xác, hoặc Rước kiệu, hay là Kinh Cầu, như trong ngày Cầu mùa, v.v... liền với Kinh Officium ngày) thì đọc::/

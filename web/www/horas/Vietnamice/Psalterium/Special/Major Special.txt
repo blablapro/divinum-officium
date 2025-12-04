@@ -58,7 +58,7 @@ Phân chia đêm tối, định phần lối đi.
 Gà gáy báo sáng tức thì,
 Mặt lời mọc lên, quang huy rạng ngời.
 _
-Sao mai thức dậy giữa trời,
+Sao mai thức dậy giữa lời,
 Xua tan mù mịt, khắp nơi sáng lòa.
 Đoàn người lầm lạc xấu xa,
 Bỏ đường hại người, lánh ra nẻo tà.
@@ -105,7 +105,7 @@ Gà vừa gáy sáng vang lừng,
 Đèn soi lữ khách đường đời,
 Phân chia đêm tối, tách rời khắc canh.
 _
-Sao mai thức dậy giữa trời,
+Sao mai thức dậy giữa lời,
 Xua tan mù mịt, khắp nơi sáng lòa.
 Đoàn người lầm lạc xấu xa,
 Bỏ đường hại người, lánh ra nẻo tà.
@@ -168,7 +168,7 @@ R. Hỡi Chúa, các việc Chúa * cả thể dường nào.
 
 [Hymnus Day0 Vespera]
 {:H-Luciscreator:}v. Chúa là Tạo Hóa tốt lành, 
-Dựng nên ánh sáng, rạng danh đất trời. 
+Dựng nên ánh sáng, rạng danh đất lời. 
 Ban sơ ánh sáng rạng ngời, 
 Sắm sanh gốc tích muôn đời thế gian. 
 _
@@ -195,7 +195,7 @@ Amen.
 
 [HymnusM Day0 Vespera hiemalis] (rubrica cisterciensis)
 v. Chúa là Tạo Hóa muôn loài, 
-Cầm quyền cai quản vòm trời cao sang. 
+Cầm quyền cai quản vòm lời cao sang. 
 Ngày thời mặc áo huy hoàng, 
 Đêm thời giấc ngủ nhẹ nhàng ban ơn. 
 _
@@ -210,7 +210,7 @@ Giúp người giữ đạo trước sau,
 Hát mừng ca tụng, nhiệm mầu thiêng liêng. 
 _
 Lòng sâu hòa tiếng cung chiêng, 
-Tiếng ca vang dội, ngợi khen Chúa Trời. 
+Tiếng ca vang dội, ngợi khen Chúa Lời. 
 Tình yêu thanh tịnh sáng ngời, 
 Trí khôn tỉnh thức, thờ Người nghiêm trang. 
 _
@@ -291,7 +291,7 @@ Uống say ơn phúc, sạch trơn tội tình.
 _
 Ngày nay vui vẻ an bình,
 Nết na buổi sớm, quang minh rạng ngời.
-Đức tin sáng láng giữa trời,
+Đức tin sáng láng giữa lời,
 Tối tăm mù mịt, xin rời trí khôn.
 _
 Rạng đông dẫn ánh sáng tuôn,
@@ -338,7 +338,7 @@ Thánh Thần sung mãn, sạch trơn tội tình.
 _
 Ngày nay vui vẻ an bình,
 Nết na buổi sớm, quang minh rạng ngời.
-Đức tin sáng láng giữa trời,
+Đức tin sáng láng giữa lời,
 Tối tăm mù mịt, xin rời trí khôn.
 _
 Rạng đông dẫn lối đưa đường,
@@ -385,7 +385,7 @@ Amen.
 [Hymnus Day3 Laudes]
 {:H-LaudsFeria:}v. Mây mù, tăm tối, đêm thâu,
 Thế gian rối loạn, âu sầu biết bao.
-Sáng lòa, trời đất thanh thao,
+Sáng lòa, lời đất thanh thao,
 Chúa đà ngự đến, hãy mau lui dần.
 _
 Mặt lời chiếu rọi trần gian,
@@ -842,7 +842,7 @@ Amen.
 {:H-LaudsAdv:}v. Này nghe tiếng cả vang lừng,
 Quở la mọi sự mịt mùng tối tăm.
 Xua đi mộng mị mê lầm,
-Chúa từ trời thẳm, giáng lâm sáng lòa.
+Chúa từ lời thẳm, giáng lâm sáng lòa.
 _
 Trí lòng uể oải dậy mau,
 Những gì nhơ bẩn, đớn đau tội tình.
@@ -925,7 +925,7 @@ Hiến thân vẹn sạch, tội tình rửa cho.
 _
 Oai quyền vinh hiển khôn dò,
 Danh Người vừa xướng, nhỏ to kính vì.
-Trên trời dưới đất một khi, 
+Trên lời dưới đất một khi, 
 Gối quỳ run rẩy, uy nghi phục tùng.
 _
 Cầu xin Quan Xét ngày chung,
@@ -953,11 +953,11 @@ _
 Thế gian xế bóng trần mành,
 Tựa chàng rể mới, xuất hành động hoa. 
 Cung lòng vẹn sạch đi ra, 
-Mẹ lành trinh khiết, sinh ra Chúa Trời.
+Mẹ lành trinh khiết, sinh ra Chúa Lời.
 _
 Quyền năng mạnh sức tuyệt vời,
 Gối quỳ bái lạy, mọi nơi phục tùng. 
-Trên trời dưới đất xưng tụng,
+Trên lời dưới đất xưng tụng,
 Cúi đầu vâng phục, một lòng kính tin.
 _
 Cầu xin Đấng Thánh giữ gìn,
@@ -1179,7 +1179,7 @@ Mật đắng uống, sức mòn hao,
 Gai, đanh, đòng nhọn, đâm vào nát tan.
 Thịt mềm thủng lỗ chứa chan,
 Máu cùng nước chảy, tuôn tràn láng lai.
-Đất, trời, tinh tú, biển khơi,
+Đất, lời, tinh tú, biển khơi,
 Tẩy trong dòng ấy, sáng ngời sạch trong.
 _
 Câu rút trung tín vô cùng,
@@ -1223,7 +1223,7 @@ Giấm chua, mật đắng, đinh, đòng,
 Đờm nhổ, gai nhọn, nát lòng nát tan.
 Thịt mềm thủng lỗ chứa chan,
 Máu cùng nước chảy, tuôn tràn láng lai.
-Đất, trời, tinh tú, biển khơi,
+Đất, lời, tinh tú, biển khơi,
 Tẩy trong dòng ấy, sáng ngời sạch trong.
 _
 Câu rút trung tín vô cùng,
@@ -1393,7 +1393,7 @@ $Deo gratias
 @Psalterium/Special/Minor Special:Responsory breve Pasch Sexta
 
 [Hymnus Pasch Laudes]
-{:H-Auroracoelum:}v. Rạng đông nhuộm tím bầu trời,
+{:H-Auroracoelum:}v. Rạng đông nhuộm tím bầu lời,
 Không trung vang dội những lời ngợi khen.
 Thế gian mừng rỡ một phen,
 Hỏa ngục run sợ, đớn hèn kêu la.
@@ -1473,7 +1473,7 @@ Galilêa thỏa ước mong,
 Thấy mặt Thầy mình, thỏa lòng ước ao.
 _
 Phục Sinh vui sướng dạt dào,
-Mặt trời rực rỡ, chiếu vào thế gian.
+Mặt lời rực rỡ, chiếu vào thế gian.
 Tông đồ thấy Chúa nhãn tiền,
 Xác thân hiển trị, bình yên lạ lùng.
 _
@@ -1554,7 +1554,7 @@ Phần thưởng sự sống, quang huy rạng ngời.
 _
 Chiến thắng âm phủ tuyệt vời,
 Chúa đem cờ hiệu, rạng ngời vinh quang.
-Cửa trời mở rộng thênh thang,
+Cửa lời mở rộng thênh thang,
 Vua đêm tăm tối, đầu hàng chịu thua.
 _
 Giêsu, vui sướng tưng bừng,
@@ -1577,7 +1577,7 @@ _
 Mình Người cực thánh hy sinh,
 Trên cây câu rút, tội tình nướng thiêu.
 Máu hồng tuôn đổ bấy nhiêu,
-Nếm thì được sống, cao siêu Chúa Trời.
+Nếm thì được sống, cao siêu Chúa Lời.
 _
 Chiều hôm Lễ Cả thảnh thơi,
 Thiên thần hủy diệt, chẳng hơi hại gì.
@@ -1597,7 +1597,7 @@ _
 Chúa đà chỗi dậy huy hoàng,
 Thắng nơi vực thẳm, rõ ràng uy linh.
 Quỷ ma xiềng xích tội tình,
-Cửa trời mở lại, thiên đình hỉ hoan.
+Cửa lời mở lại, thiên đình hỉ hoan.
 _
 Cầu xin Tác Giả cửu trùng,
 Trong mùa Phục Sinh, vui chung ơn lành.
@@ -1612,7 +1612,7 @@ Amen.
 
 [Pasch Versum 3]
 V. Xin ở lại cùng chúng tôi, hỡi Chúa, allêluia.
-R. Vì trời đã tối, allêluia.
+R. Vì lời đã tối, allêluia.
 
 [Suffragium Divino]
 Ant. Xin Rất Thánh Đức Mẹ Chúa Lời là Đức Bà Maria đồng trinh, và hết các Thánh cầu bầu cho chúng tôi trước mặt Chúa.
@@ -1690,7 +1690,7 @@ V. Sự vinh hiển và của cải ở trong nhà người. (Allêluia.)
 R. Và sự công chính người bền đỗ đời đời. (Allêluia.)
 _
 $Oremus
-v. Lạy Đức Chúa Lời, Chúa đã dùng sự an bài khôn tả mà đoái thương chọn ông thánh Giuse làm bạn thanh sạch của Rất Thánh Đức Mẹ Chúa: xin ban cho chúng tôi được nhờ người cầu bầu trên trời, là Đấng chúng tôi tôn kính làm quan thầy dưới đất.
+v. Lạy Đức Chúa Lời, Chúa đã dùng sự an bài khôn tả mà đoái thương chọn ông thánh Giuse làm bạn thanh sạch của Rất Thánh Đức Mẹ Chúa: xin ban cho chúng tôi được nhờ người cầu bầu trên lời, là Đấng chúng tôi tôn kính làm quan thầy dưới đất.
 
 [Suffragium DeJoseph]
 !Kính Ông Thánh Giuse

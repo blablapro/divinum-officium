@@ -51,7 +51,7 @@ R. Amen.
 
 [Confiteor]
 v. Tôi cáo mình cùng Đức Chúa Lời phép tắc vô cùng, và rất thánh Đức Bà Maria lọn đời đồng trinh, cùng đức thánh Micae Tổng lãnh thiên thần, cùng ông thánh Gioan Baotixita, cùng hai ông thánh Tông đồ, ông thánh Phêrô, ông thánh Phaolô, cùng các thánh, vì tôi đã phạm tội nhiều, lòng động lòng lo, miệng nói, mình làm: /:đấm ngực:/ lỗi tại tôi, lỗi tại tôi, lỗi tại tôi mọi đàng.
-Vì vậy tôi xin rất thánh Đức Bà Maria lọn đời đồng trinh, đức thánh Micae Tổng lãnh thiên thần, ông thánh Gioan Baotixita, cùng hai ông thánh Tông đồ, ông thánh Phêrô, ông thánh Phaolô, cùng các thánh, cầu cùng Đức Chúa Trời là Chúa chúng tôi tha tội cho tôi cùng. 
+Vì vậy tôi xin rất thánh Đức Bà Maria lọn đời đồng trinh, đức thánh Micae Tổng lãnh thiên thần, ông thánh Gioan Baotixita, cùng hai ông thánh Tông đồ, ông thánh Phêrô, ông thánh Phaolô, cùng các thánh, cầu cùng Đức Chúa Lời là Chúa chúng tôi tha tội cho tôi cùng. 
 
 [Misereatur]
 v. Xin Chúa phép tắc vô cùng thương xót chúng tôi, và tha tội lỗi chúng tôi, cùng đưa chúng tôi tới đến sự hằng sống đời đời. Amen. 
@@ -114,7 +114,7 @@ r. Vì công nghiệp cũng một Đức Chúa Giêsu Kirixitô là Chúa chúng
 R. Amen.
 
 [Qui vivis]
-r. Lạy Chúa hằng sống hằng trị cùng Đức Chúa Cha và Đức Chúa Thánh Thần đời đời chẳng cùng.
+r. Vì Người hằng sống hằng trị cùng Đức Chúa Cha và Đức Chúa Thánh Thần đời đời chẳng cùng.
 R. Amen. 
 
 [Qui tecum]
@@ -162,10 +162,10 @@ Lạy Chúa, tôi trông cậy Chúa * tôi chẳng phải hổ ngươi đời �
 /:quì gối:/
 v. Lạy Chúa, xin Chúa hãy mở miệng lưỡi tôi ra cho được ngợi khen danh thánh Chúa ; lại xin Chúa rửa linh hồn tôi cho sạch những ý tưởng trái dòng dài vô ích ; xin Chúa soi sáng trí khôn, mở lòng nóng nảy cho tôi đọc kinh Officium này cách xứng đáng, chăm chỉ sốt sắng và đáng nhậm lời trước mặt Chúa uy nghi vô cùng. Vì công nghiệp Chúa Kirixitô Chúa chúng tôi.
 R. Amen.
-v. Lạy Chúa, tôi xin hợp một lòng một ý cùng Chúa mà đọc những kinh Officium này như xưa Chúa đã ngợi khen Đức Chúa Trời khi còn ở thế gian này. 
+v. Lạy Chúa, tôi xin hợp một lòng một ý cùng Chúa mà đọc những kinh Officium này như xưa Chúa đã ngợi khen Đức Chúa Lời khi còn ở thế gian này. 
 
 [Post]
-v. Chớ gì mọi loài hằng hát mừng ngợi khen quyến phép làm sáng danh một Đức Chúa Trời Ba Ngôi cực thánh cực trọng, Đức Chúa Giêsu Kirixitô đã mặc lấy tính loài người mà phải đóng đanh trên cây Thánh giá, Đức Mẹ cực thanh cực tịnh có phúc lạ cả sáng Maria lọn đời đồng trinh cùng các thánh nam nữ và cho chúng tôi được khỏi mọi tội lỗi đời đời chẳng cùng.
+v. Chớ gì mọi loài hằng hát mừng ngợi khen quyến phép làm sáng danh một Đức Chúa Lời Ba Ngôi cực thánh cực trọng, Đức Chúa Giêsu Kirixitô đã mặc lấy tính loài người mà phải đóng đanh trên cây Thánh giá, Đức Mẹ cực thanh cực tịnh có phúc lạ cả sáng Maria lọn đời đồng trinh cùng các thánh nam nữ và cho chúng tôi được khỏi mọi tội lỗi đời đời chẳng cùng.
 R. Amen.
 _
 V. Lòng Đức Nữ đồng trinh Maria đã cưu mang Con một Đức Chúa Cha hằng sống, có phúc.
@@ -215,7 +215,7 @@ V. Đức Chúa Lời ở cùng anh em.
 R. Và xin Đức Chúa Lời ở cùng người nữa.
 _
 v. Ta hãy cầu xin.
-Lạy ơn Đức Chúa Lời phép tắc vô cùng hằng có đời đời, xin Chúa tôi hãy dủ nghe chúng tôi, và hãy sai Thánh Thiên Thần Chúa tôi từ trời xuống, gìn giữ, nuôi nấng, che chở, thăm viếng và bàu chữa hết mọi kẻ ở trong nhà này. Vì Đức Chúa Jêsu Kirixitô là Chúa chúng tôi. Amen.
+Lạy ơn Đức Chúa Lời phép tắc vô cùng hằng có đời đời, xin Chúa tôi hãy dủ nghe chúng tôi, và hãy sai Thánh Thiên Thần Chúa tôi từ lời xuống, gìn giữ, nuôi nấng, che chở, thăm viếng và bàu chữa hết mọi kẻ ở trong nhà này. Vì Đức Chúa Jêsu Kirixitô là Chúa chúng tôi. Amen.
 
 [Asperges me]
 # Asperges me
@@ -232,7 +232,7 @@ V. Đức Chúa Lời ở cùng anh em.
 R. Và xin Đức Chúa Lời ở cùng người nữa.
 _
 v. Ta hãy cầu xin.
-Lạy ơn Đức Chúa Lời phép tắc vô cùng hằng có đời đời, xin Chúa tôi hãy dủ nghe chúng tôi, và hãy sai Thánh Thiên Thần Chúa tôi từ trời xuống, gìn giữ, nuôi nấng, che chở, thăm viếng và bàu chữa hết mọi kẻ ở trong nhà này. Vì Đức Chúa Jêsu Kirixitô là Chúa chúng tôi. Amen.
+Lạy ơn Đức Chúa Lời phép tắc vô cùng hằng có đời đời, xin Chúa tôi hãy dủ nghe chúng tôi, và hãy sai Thánh Thiên Thần Chúa tôi từ lời xuống, gìn giữ, nuôi nấng, che chở, thăm viếng và bàu chữa hết mọi kẻ ở trong nhà này. Vì Đức Chúa Jêsu Kirixitô là Chúa chúng tôi. Amen.
 
 [Ultima Evangelium]
 V. Đầu sách ++ Êvan ông thánh Juong.
